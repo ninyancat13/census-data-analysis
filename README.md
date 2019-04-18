@@ -5,7 +5,7 @@ Please download and open terminal. Type "jupyter-notebook" to access the code fr
 
 Or access them here:
 
-<a href="https://github.com/ninyancat13/census_data_analysis/blob/master/Hypothesis%201.ipynb"> : Hypothesis_1</a> Larger proportion of older people live in the hills up north of Perth compared to the inner city.
+<a href="https://github.com/ninyancat13/census_data_analysis/blob/master/Hypothesis%201.ipynb">Hypothesis_1</a> : Larger proportion of older people live in the hills up north of Perth compared to the inner city.
 
 
 <a href="https://github.com/ninyancat13/census_data_analysis/blob/master/Hypothesis%202.ipynb">Hypothesis_2</a> : People living in the inner city suburbs are more likely to walk to work compared to those living in outer suburbs.
